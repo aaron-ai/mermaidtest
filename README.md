@@ -10,6 +10,7 @@ graph TD
 ```
 
 ```mermaid
+%%{init: {'theme': 'forest' } }%%
 gantt
 	dateFormat YYYY-MM-DD
 	title XXX 2020上半年规划
